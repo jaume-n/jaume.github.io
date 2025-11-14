@@ -10,8 +10,9 @@ Aquest és un **lloc creat amb Jekyll** i allotjat a *GitHub Pages*.
 
 ## Navega per la web
 
-- [Inici](/)
+- [Índex](/index/)
 - [Serveis](/serveis/)
+- [Post Nou](/2025/11/14/postnou/)
 
 ## Informació bàsica
 

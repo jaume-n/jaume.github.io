@@ -7,6 +7,8 @@ permalink: /serveis/
 ## Navegació
 - [Inici](/)
 - [Sobre Nosaltres](/about/)
+- [Post Nou](/2025/11/14/postnou/)
+
 
 ---
 

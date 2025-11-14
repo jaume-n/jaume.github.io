@@ -5,14 +5,6 @@
 layout: home
 title: Pàgina inicial
 ---
-
-#Benvingut al meu lloc Jekyll
-
-Aquesta és una pàgina creada amb **Markdown avançat**.
-Feta pel **Jaume**
-
----
-
 <!-- Menú de navegació -->
 <nav style="background-color:#333; padding:10px; text-align:center;">
   <a href="/" style="color:white; margin:0 15px; text-decoration:none;">Inici</a>
@@ -20,6 +12,14 @@ Feta pel **Jaume**
   <a href="/serveis/" style="color:white; margin:0 15px; text-decoration:none;">Serveis</a>
 </nav>
 
+- [Post Nou](/2025/11/14/postnou/)
+
+---
+
+#Benvingut al meu lloc Jekyll
+
+Aquesta és una pàgina creada amb **Markdown avançat**.
+Feta pel **Jaume**
 ---
 
 ## Taula
