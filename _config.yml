@@ -1,0 +1,14 @@
+# Site settings
+title: Jaume Núñez Gómez
+email: janu905@vidalibarraquer.net
+description: "Aquest és el meu segon lloc fet amb Jekyll i GitHub Pages!"
+baseurl: ""                 # IMPORTANT: deixa buit perquè és el repositori principal
+url: https://github.com/jaume-n/jaume.github.io.git  # URL del teu lloc
+
+
+github_username: jaume-n     # opcional
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
