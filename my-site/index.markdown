@@ -13,6 +13,11 @@ Feta pel **Jaume**
 
 ---
 
+## Navega per la web
+
+- [Sobre Nosaltres](/about/)
+- [Serveis](/serveis/)
+---
 ## Taula
 
 Aquí he posat una taula:

@@ -8,6 +8,11 @@ permalink: /about/
 
 Aquest és un **lloc creat amb Jekyll** i allotjat a *GitHub Pages*.
 
+## Navega per la web
+
+- [Inici](/)
+- [Serveis](/serveis/)
+
 ## Informació bàsica
 
 - Creat com a prova de Jekyll
