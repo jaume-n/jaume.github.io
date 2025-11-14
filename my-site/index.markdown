@@ -13,11 +13,15 @@ Feta pel **Jaume**
 
 ---
 
-## Navega per la web
+<!-- Menú de navegació -->
+<nav style="background-color:#333; padding:10px; text-align:center;">
+  <a href="/" style="color:white; margin:0 15px; text-decoration:none;">Inici</a>
+  <a href="/about/" style="color:white; margin:0 15px; text-decoration:none;">Sobre Nosaltres</a>
+  <a href="/serveis/" style="color:white; margin:0 15px; text-decoration:none;">Serveis</a>
+</nav>
 
-- [Sobre Nosaltres](/about/)
-- [Serveis](/serveis/)
 ---
+
 ## Taula
 
 Aquí he posat una taula:
