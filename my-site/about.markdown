@@ -4,15 +4,19 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Sobre aquest lloc
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Aquest és un **lloc creat amb Jekyll** i allotjat a *GitHub Pages*.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Informació bàsica
 
+- Creat com a prova de Jekyll
+- Funciona amb Markdown
+- Publicat a GitHub Pages ;)
+- Hi ha acudits :)
 
-[jekyll-organization]: https://github.com/jekyll
+Aquí he posat un enllaç per enrar al meu usuari de GitHub: [jaume-n](https://github.com/jaume-n)
+
+> "Què li va dir el semàfor al cotxe? No em miris, m'estic canviant."
+> "Per què el llibre de matemàtiques es va deprimir? Perquè tenia massa problemes."
+> "Què fa una abella en el gimnàs? Zum-ba!"
